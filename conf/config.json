@@ -1,0 +1,6 @@
+{
+    "fxsstpath": "conf/fxsst.xlsx",
+    "logpath": "Logs/app.log",
+    "post_url": "http://36.153.213.27:7777/api/TSZY/t_qyqyryqk/add",
+    "m_url": "http://192.168.228.83:7000/CHANGCHUN/"
+}
